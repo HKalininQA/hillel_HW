@@ -4,3 +4,4 @@ guests = []
 
 omnivores.extend(vegetarians)
 print('List of guests:', omnivores)
+
