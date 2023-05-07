@@ -9,3 +9,4 @@ alcohol_blacklist = {'Irina Smith', 'Mark Martsun', 'Rebecca Saints', 'John Doe'
 #Second approach to resolve this task
 blacklist = casino_blacklist.intersection(poker_blacklist, alcohol_blacklist)
 print(blacklist)
+
