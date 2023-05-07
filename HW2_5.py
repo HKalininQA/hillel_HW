@@ -7,3 +7,4 @@ for name in names:
         names_unique.append(name)
 
 print(names_unique)
+
